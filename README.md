@@ -27,4 +27,4 @@ Syntax highlighted code block
 ```
 
 ## My map
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aKqamfOSLCm4MqiLLEyVxkOD4Ng" width="90%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1aKqamfOSLCm4MqiLLEyVxkOD4Ng" width="100%" height="480"></iframe>
