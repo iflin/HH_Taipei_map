@@ -5,7 +5,7 @@
 
 ***
 ## google map API 範例
-<iframe src="https://snazzymaps.com/embed/183776" width="100%" height="480px" style="border:none;"></iframe>
+<iframe src="https://snazzymaps.com/embed/183776" width="100%" height="600px" style="border:none;"></iframe>
 
 ***
 ## google earth 3D圖
